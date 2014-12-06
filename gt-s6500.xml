@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>   
+    <project path="device/samsung/msm7x27a-common" name="midzan21/android_device_samsung_msm7x27a-common" revision="master" />
+    <project path="device/samsung/jenad" name="TheWhisp/android_device_samsung_s6500d" revision="cm-11.0" />
+    <project path="device/samsung/jena" name="TheWhisp/android_device_samsung_s6500" revision="cm-11.0" />
+    <project path="vendor/samsung" name="TheWhisp/proprietary_vendor_samsung_msm7x27a" revision="cm-10.2-old-adreno" />
+    <project path="kernel/samsung/msm7x27a" name="TheWhisp/android_kernel_samsung_msm7x27a" revision="cm-11.0" />
+
+<remove-project name="CyanogenMod/android_frameworks_native" />
+<remove-project name="CyanogenMod/android_frameworks_av" />
+<project path="frameworks/native" name="legaCyMod/android_frameworks_native" revision="cm-11.0" />
+<project path="frameworks/av" name="legaCyMod/android_frameworks_av" revision="cm-11.0" />
+
+<project path="hardware/atheros/wlan" name="midzan21/android_hardware_atheros_wlan_cm" revision="master" />
+<project path="hardware/qcom/display-legacy" name="midzan21/android_hardware_qcom_display-legacy" revision="master" />
+<project path="hardware/qcom/media-legacy" name="TheWhisp/android_hardware_qcom_media-legacy" revision="jellybean-mr2" />
+
+<project path="hardware/qcom/fm-mr1" name="legaCyMod/android_hardware_qcom_fm" revision="cm-11.0" />
+<project path="packages/apps/FM2" name="legaCyMod/android_packages_apps_FM2" revision="cm-11.0" />
+
+<project path="external/webkit" name="legaCyMod/android_external_webkit" revision="cm-11.0" />
+</manifest>
