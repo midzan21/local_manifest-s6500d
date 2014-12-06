@@ -13,7 +13,7 @@
 
 <project path="hardware/atheros/wlan" name="midzan21/android_hardware_atheros_wlan_cm" revision="master" />
 <project path="hardware/qcom/display-legacy" name="midzan21/android_hardware_qcom_display-legacy" revision="master" />
-<project path="hardware/qcom/media-legacy" name="TheWhisp/android_hardware_qcom_media-legacy" revision="jellybean-mr2" />
+<project path="hardware/qcom/media-legacy" name="midzan21/android_hardware_qcom_media-legacy" revision="master" />
 
 <project path="hardware/qcom/fm-mr1" name="legaCyMod/android_hardware_qcom_fm" revision="cm-11.0" />
 <project path="packages/apps/FM2" name="legaCyMod/android_packages_apps_FM2" revision="cm-11.0" />
